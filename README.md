@@ -8,6 +8,8 @@
 
 ## Project Description
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f66f5c66-3d95-40ba-bf5b-fa37904e8422" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40170f33-d5d4-449c-9afb-2af56a450fde" />
+
 
 
 This project is a basic implementation of an NFT Rental Platform built using Soroban smart contracts on the Stellar blockchain. It allows NFT owners to list their NFTs for rent and enables users to rent them for a specific duration.
